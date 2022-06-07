@@ -1,6 +1,6 @@
 {
-  "name": "starter_kit",
-  "version": "0.2.0",
+  "name": "NFT",
+  "version": "0.0.1",
   "private": false,
   "dependencies": {
     "@babel/preset-react": "^7.16.7",

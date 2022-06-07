@@ -56,7 +56,7 @@ const Home = ({ marketplace, nft }) => {
               <Col key={idx} className="overflow-hidden">
                 <Card>
                   <Card.Img variant="top" src={item.image} />
-                  <Card.Body color="secondary">
+                  <Card.Body color="primary">
                     <Card.Title>{item.name}</Card.Title>
                     <Card.Text>
                       {item.description}
